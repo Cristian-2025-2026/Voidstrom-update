@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "force_update": false,
+  "apk_url": "https://github.com/Cristian-2025-2026/Voidstrom-update/releases/latest/download/VoidStrom.apk",
+  "title": "Update Void Strom",
+  "changelog": [
+    "Perbaikan bug",
+    "Peningkatan performa",
+    "Fitur baru"
+  ]
+}
